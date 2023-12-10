@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://amgascool.github.io/posts/1.html</loc>
+    
+    <lastmod>2023-12-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://amgascool.github.io/List/movies/index.html</loc>
     
     <lastmod>2023-05-14</lastmod>
@@ -51,13 +58,6 @@
   </url>
   
   <url>
-    <loc>http://amgascool.github.io/posts/1.html</loc>
-    
-    <lastmod>2023-05-14</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://amgascool.github.io/comments/index.html</loc>
     
     <lastmod>2021-11-23</lastmod>
@@ -88,7 +88,7 @@
 
   <url>
     <loc>http://amgascool.github.io/</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -96,7 +96,7 @@
   
   <url>
     <loc>http://amgascool.github.io/tags/%E6%83%B3%E6%B3%95/</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -105,7 +105,7 @@
   
   <url>
     <loc>http://amgascool.github.io/categories/%E6%83%B3%E6%B3%95/</loc>
-    <lastmod>2023-05-14</lastmod>
+    <lastmod>2023-12-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
